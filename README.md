@@ -1,74 +1,97 @@
-# Day 1 Python Basics 
+🚀 **Day 1–4 of My AI + Full Stack Journey**
 
-## Topics Covered:
-- Print function
-- Variables
-- Input & Output
-- Type Casting (int, float, str)
-- Basic Arithmetic Operations
+I’m building a strong foundation in Python as part of my journey toward AI and Full Stack Development. Here’s my progress so far:
 
-## Programs Done:
-- Sum of two numbers
-- Area of square
-- Average of two numbers
-- Comparison operators
-- Temperature conversion
-- Double, Triple, Square of a number
+---
 
-Started my AI + Full Stack journey today 
+### 📅 **Day 1 – Python Fundamentals**
 
-Day 2 - Python Basics (Strings & Conditionals)
-📌 Topics Covered
+📌 **Topics Covered:**
 
-Data Types (int, float, str)
+* Print function
+* Variables
+* Input & Output
+* Type Casting (`int`, `float`, `str`)
+* Basic Arithmetic Operations
 
-Type Casting (int(), float(), str())
+💻 **Practice:**
 
-type() function
+* Sum, average, area calculations
+* Temperature conversion
+* Mathematical operations
 
-String Basics (indexing, slicing)
+---
 
-String Methods (count, replace)
+### 📅 **Day 2 – Strings & Conditionals**
 
-Conditional Statements (if, elif, else)
+📌 **Topics Covered:**
 
-💻 Practice Done
+* Data Types & Type Casting
+* String Indexing & Slicing
+* String Methods (`count()`, `replace()`)
+* Conditional Statements (`if`, `elif`, `else`)
 
-Count occurrence of characters in a string
+💻 **Practice:**
 
-Replace spaces with _
+* Vowel counting
+* Even/Odd check
+* Largest number
+* Password validation
 
-Count vowels in a string
+🧠 **Key Learning:**
+Understanding how Python handles strings and logical flow control.
 
-Even / Odd check
+---
 
-Positive / Negative / Zero
+### 📅 **Day 3 – Lists & Tuples**
 
-Largest of two numbers
+📌 **Topics Covered:**
 
-Basic password check
+* Lists (mutable)
+* Tuples (immutable)
+* Indexing & Slicing
+* Basic methods
 
-🧠 Key Learnings
+💻 **Practice:**
 
-input() always gives string
+* List operations
+* Tuple immutability
+* Element access
 
-Need type casting for calculations
+---
 
-count() works for exact match only
+### 📅 **Day 4 – Sets & Dictionaries**
 
-replace() needs correct syntax
+📌 **Topics Covered:**
 
-String indexing and slicing need careful attention
+* Sets (unique elements, unordered)
+* Set operations (union, intersection)
+* Dictionaries (key-value pairs)
+* Dictionary methods (`update()`, `get()`, `keys()`, `values()`)
 
-Day 3 - Lists & Tuples Practice
-(📌 Topics)
+💻 **Practice:**
 
-Lists
+* Removing duplicates using sets
+* Finding union & intersection
+* Creating and updating dictionaries
+* Merging dictionaries
+* Counting unique subjects problem
 
-Tuples
+🧠 **Key Learnings:**
 
-Indexing
+* Sets automatically handle duplicates
+* Dictionaries provide efficient data storage and retrieval
+* `update()` modifies dictionary but returns `None`
+* Choosing correct data structure improves problem-solving
 
-Slicing
+---
 
-Basic Methods
+### 🚀 **Progress Reflection**
+
+Staying consistent and focusing on fundamentals. Each day is helping me move closer to building real-world AI & Full Stack projects.
+
+---
+
+#Python #AI #FullStack #CodingJourney #100DaysOfCode #LearnInPublic
+
+
